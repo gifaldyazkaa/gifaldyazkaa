@@ -19,4 +19,9 @@ I am an Owner at <a href="https://github.com/Falcxxr">@Falcxxr</a> organization.
 <a href="http://falcxx.rf.gd"><img src="https://img.shields.io/badge/Website-falcxx.rf.gd-yellow?style=for-the-badge&logo=website" /></a>
 </p>
 
+**Favorite Code Editor :**
+<p>
+<a href="visualstudio.code.com"><img src="https://img.shields.io/badge/Code%20Editor-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code" /></a>
+</p>
+
 
