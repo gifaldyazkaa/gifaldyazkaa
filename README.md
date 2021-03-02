@@ -14,26 +14,8 @@ I am an Owner at <a href="https://github.com/Falcxxr">@Falcxxr</a> organization.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gifaldyazkaa&layout=compact&theme=radical)
 
+<p>
+<a href="https://github.com/gifaldyazkaa?tab=followers><img https://img.shields.io/badge/Followers-3-blue?style=for-the-badge&logo=GitHub />
+</p>
+
 - - - 
-
-Programming Language as i can |
--------------|
-Ruby         |
-C++          |
-HTML5        |
-CSS          |
-TypeScript   |
-JavaScript   |
-React.js     |
-
-* Programming Language to be Learned : 
-
-- [ ] Kotlin (.kt)
-- [ ] Python (.py)
-- [ ] Swift (.swift)
-- [ ] PHP (.php)
-- [ ] SQL Database (.sql)
-- [ ] C# (.cs)
-- [ ] Rust(.rs)
-- [ ] Java (.java, .jav)
-- [ ] Shell (.sh)
