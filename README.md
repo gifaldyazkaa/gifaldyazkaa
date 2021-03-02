@@ -22,6 +22,7 @@ I am an Owner at <a href="https://github.com/Falcxxr">@Falcxxr</a> organization.
 **Favorite Code Editor :**
 <p>
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/Code%20Editor-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code" /></a>
+<a href="https://www.sublimetext.com"><img src="https://img.shields.io/badge/Code%20Editor-Sublime%20Text%203-orange?style=for-the-badge&logo=sublime-text" /></a>
 </p>
 
 
