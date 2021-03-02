@@ -24,4 +24,9 @@ I am an Owner at <a href="https://github.com/Falcxxr">@Falcxxr</a> organization.
 <a href="https://www.sublimetext.com"><img src="https://img.shields.io/badge/Code%20Editor-Sublime%20Text%203-orange?style=for-the-badge&logo=sublime-text" /></a>
 </p>
 
+**Favorite Programming Language :**
+<p>
+<a href="ruby-lang.org"><img src="https://img.shields.io/badge/Favorite-Ruby-red?style=for-the-badge&logo=Ruby" /></a>
+</p>
+
 
