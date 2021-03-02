@@ -1,8 +1,7 @@
 # Gifaldy Azka - Falcxx
 ----------
 ``` ruby
-puts "Welcome to gifaldyazkaa's Profile Overview!
-"
+puts "Welcome to gifaldyazkaa's Profile Overview!"
 
 organization = [@Falcxxr]
 website = http://falcxx.rf.gd
