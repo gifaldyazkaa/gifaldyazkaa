@@ -11,6 +11,7 @@ I am an Owner at <a href="https://github.com/Falcxxr">@Falcxxr</a> organization.
 <hr>
 こんにちは、私はGifaldy Azkaです。アプリケーションを作成していますが、プログラミングの世界についてもっと知識が必要です。
 私は<a href="https://github.com/Falcxxr">@Falcxxr</a>組織の所有者です
+<hr>
 
 ![Gifaldy Azka's GitHub stats](https://github-readme-stats.vercel.app/api?username=gifaldyazkaa&show_icons=true&theme=radical)
 
