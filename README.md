@@ -12,6 +12,8 @@ I am an Owner at <a href="https://github.com/Falcxxr">@Falcxxr</a> organization.
 
 [![Gifaldy Azka's GitHub stats](https://github-readme-stats.vercel.app/api?username=gifaldyazkaa&show_icons=true&theme=radical))](https://github.com/gifaldyazkaa/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - - - 
 
 Programming Language as i can |
