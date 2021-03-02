@@ -10,9 +10,9 @@ website = http://falcxx.rf.gd
 Hi, I am Gifaldy Azka, I creating some Application, and Needs more knowledge about Programming World.
 I am an Owner at <a href="https://github.com/Falcxxr">@Falcxxr</a> organization.
 
-[![Gifaldy Azka's GitHub stats](https://github-readme-stats.vercel.app/api?username=gifaldyazkaa&show_icons=true&theme=radical))](https://github.com/gifaldyazkaa/github-readme-stats)
+[![Gifaldy Azka's GitHub stats](https://github-readme-stats.vercel.app/api?username=gifaldyazkaa&show_icons=true&theme=radical)](https://github.com/gifaldyazkaa/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gifaldyazkaa&layout=compact)](https://github.com/gifaldyazkaa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gifaldyazkaa&layout=compact&theme=radical)](https://github.com/gifaldyazkaa/github-readme-stats)
 
 - - - 
 
