@@ -1,15 +1,14 @@
 # Gifaldy Azka - Falcxx
 ----------
-``` ruby
-puts "Welcome to gifaldyazkaa's Profile Overview!"
-
-organization = [@Falcxxr]
-website = http://falcxx.rf.gd
+```js
+console.log('Hello Wworld!');
 ```
 Hi, I am Gifaldy Azka, I enjoying coding at Javascript, Discord.js, and Ruby!
+
 I am an Owner at <a href="https://github.com/Falcxxr">@Falcxxr</a> organization.:octocat:
 <hr>
 こんにちは、私はGifaldy Azkaです。アプリケーションを作成していますが、プログラミングの世界についてもっと知識が必要です。
+
 私は<a href="https://github.com/Falcxxr">@Falcxxr</a>組織の所有者です
 <hr>
 
