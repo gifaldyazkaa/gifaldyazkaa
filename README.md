@@ -18,13 +18,6 @@ I am an Owner at <a href="https://github.com/Falcxxr">@Falcxxr</a> organization.
 <a href="https://github.com/gifaldyazkaa?tab=followers"><img src="https://img.shields.io/badge/Followers-4-blue?style=for-the-badge&logo=GitHub" />
 <a href="https://twitter.com/Falcxxr"><img src="https://img.shields.io/badge/Twitter-11-lightgrey?style=for-the-badge&logo=twitter" /></a>
 <a href="https://instagram.com/falcxxr"><img src="https://img.shields.io/badge/Instagram-16-orange?style=for-the-badge&logo=instagram" /></a>
-<a href="http://falcxx.rf.gd"><img src="https://img.shields.io/badge/Website-falcxx.rf.gd-yellow?style=for-the-badge&logo=website" /></a>
-</p>
-
-**Favorite Code Editor :**
-<p>
-<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/Code%20Editor-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code" /></a>
-<a href="https://www.sublimetext.com"><img src="https://img.shields.io/badge/Code%20Editor-Sublime%20Text%203-orange?style=for-the-badge&logo=sublime-text" /></a>
 </p>
 
 **Favorite Programming Language :**
