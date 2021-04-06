@@ -6,7 +6,7 @@ puts "Welcome to gifaldyazkaa's Profile Overview!"
 organization = [@Falcxxr]
 website = http://falcxx.rf.gd
 ```
-Hi, I am Gifaldy Azka, I creating some Application, and Needs more knowledge about Programming World.
+Hi, I am Gifaldy Azka, I enjoying coding at Javascript, Discord.js, and Ruby!
 I am an Owner at <a href="https://github.com/Falcxxr">@Falcxxr</a> organization.:octocat:
 <hr>
 こんにちは、私はGifaldy Azkaです。アプリケーションを作成していますが、プログラミングの世界についてもっと知識が必要です。
