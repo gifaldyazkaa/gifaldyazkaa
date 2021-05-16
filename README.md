@@ -5,12 +5,11 @@
 
 <!-- Header -->
 <h1 style="text-align: center; justify-content: center;">Gifaldy Azka</h1>
-<hr>
 
 <p style="font-family: 'Hind';">Hello World! My name is Gifaldy Azka, I'm 15 y.o, I'm a Student at Bandung, West Java, Indonesia.</p>
 
 <div id="skills">
-    <h3 style="font-family: 'Ubuntu';"># Skills</h3>
+    <h2 style="font-family: 'Ubuntu';">Skills</h2>
     <ul>
         <li style="font-family: 'Hind';">HTML 5</li>
         <li style="font-family: 'Hind';">CSS</li>
