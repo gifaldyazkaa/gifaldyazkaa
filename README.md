@@ -1,8 +1,3 @@
----
-title: "gifaldyazkaa"
-author: "gifaldyazkaa"
----
-
 <!-- Google Fonts -->
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
@@ -27,5 +22,5 @@ author: "gifaldyazkaa"
 
 <div id="stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gifaldyazkaa&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gifaldyazkaa&layout=compact&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gifaldyazkaa&layout=compact&show_icons=true&theme=radical" />
 </div>
