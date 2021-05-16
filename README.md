@@ -4,7 +4,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Hind&display=swap" rel="stylesheet">
 
 <!-- Header -->
-<h1 style="font-family: 'Ubuntu'; text-align: center;">Gifaldy Azka</h1>
+<h1 style="text-align: center; justify-content: center;">Gifaldy Azka</h1>
 <hr>
 
 <p style="font-family: 'Hind';">Hello World! My name is Gifaldy Azka, I'm 15 y.o, I'm a Student at Bandung, West Java, Indonesia.</p>
