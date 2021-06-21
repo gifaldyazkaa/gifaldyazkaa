@@ -24,7 +24,7 @@
       <p>💬 Ask me about How to Be a Webdev 100% No Root</p>
       <p>📫 How to reach me: Discord <code>Falcxxdev#0001</code></p>
       <p>😄 Pronouns: He/Him</p>
-      <p>⚡ Fun fact: I'm still 14 y.o! Really.</p>
+      <p>⚡ Fun fact: I'm still 15 y.o! Really.</p>
       <p>
         👦 Dev type : Solo dev. Better to working solo than working together.
         But ask if you want to collaborate. It'll be my first collaboration.
