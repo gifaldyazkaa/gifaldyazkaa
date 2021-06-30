@@ -30,6 +30,8 @@
         But ask if you want to collaborate. It'll be my first collaboration.
       </p>
       <br />
+      <div align="center">
+            <img src="https://komarev.com/ghpvc/?username=gifaldyazkaa&label=Profile+Views&style=flat" alt="Profile Views">
       <p align="center">
         <samp>
           &#9993;
