@@ -57,7 +57,7 @@
           />
           <img
           alt="Wakatime Stats"
-          src="https://github-readme-stats.vercel.app/api/wakatime?username=gifaldyazkaa&layout=compact&theme=radical"/>
+          src="https://github-readme-stats.vercel.app/api/wakatime?username=gifaldyazkaa&layout=compact&theme=radical&hide_border=true"/>
         </a>
       </p>
     </details>
