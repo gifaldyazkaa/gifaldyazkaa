@@ -55,6 +55,9 @@
             alt="GitHub Stats"
             src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=gifaldyazkaa&show_icons=true&hide=commits&hide_border=true&icon_color=4C566A&title_color=373e4d&text_color=3b4252"
           />
+          <img
+          alt="Wakatime Stats"
+          src="https://github-readme-stats.vercel.app/api/wakatime?username=gifaldyazkaa&layout=compact&theme=radical"/>
         </a>
       </p>
     </details>
