@@ -46,6 +46,14 @@
       </p>
       <h2></h2>
       <p align="center">
+        <a href="https://discord.gg/j2MfuWySfD">
+          <img
+          alt="Discord Profile"
+          src="https://lanyard-profile-readme.vercel.app/api/788260234409672754"
+        />
+        </a>
+      </p>
+      <p align="center">
         <a href="#" target="_blank">
           <img
             alt="Top Language"
