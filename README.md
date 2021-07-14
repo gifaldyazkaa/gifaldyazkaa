@@ -30,10 +30,9 @@
           <img src="https://img.shields.io/badge/discord.js%20-%23323330.svg?&style=for-the-badge&logo=discord">
           <img src="https://img.shields.io/badge/React%20JS%20-%23323330.svg?&style=for-the-badge&logo=react">
           <img src="https://img.shields.io/badge/Sass%20-%23323330.svg?&style=for-the-badge&logo=sass">
+          <br>
+          <img src="https://komarev.com/ghpvc/?username=gifaldyazkaa&label=Profile+Views&style=flat" alt="Profile Views">
       </div>
-      <div align="center">
-            <img src="https://komarev.com/ghpvc/?username=gifaldyazkaa&label=Profile+Views&style=flat" alt="Profile Views">
-      <hr>
       <p align="center">
         <samp>
           &#9993;
