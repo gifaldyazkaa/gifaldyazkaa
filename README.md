@@ -27,7 +27,7 @@
           <h2>Skills<h2>
           <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
           <img src="https://img.shields.io/badge/discord.js%20-%23323330.svg?&style=for-the-badge&logo=discord">
-          <img src="https://img.shields.io/badge/React%20JS%20-%23323330.svg?&style=for-the-badge&logo=react">
+          <img src="https://img.shields.io/badge/Mongo%20DB%20-%23323330.svg?&style=for-the-badge&logo=mongodb">
           <img src="https://img.shields.io/badge/Sass%20-%23323330.svg?&style=for-the-badge&logo=sass">
           <br>
           <img src="https://komarev.com/ghpvc/?username=gifaldyazkaa&label=Profile+Views&style=flat" alt="Profile Views">
