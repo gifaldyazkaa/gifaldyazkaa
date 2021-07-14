@@ -19,19 +19,21 @@
       <!-- <pre>
     Hi There, My name is Gifaldy Azka!
         </pre> -->
-      <h2>Hi There! 👋</h2>
-      <p>🌱 I’m currently learning React JS, TypeScript</p>
-      <p>💬 Ask me about How to Be a Webdev 100% No Root</p>
-      <p>📫 How to reach me: Discord <code>Falcxxdev#0001</code></p>
-      <p>😄 Pronouns: He/Him</p>
-      <p>⚡ Fun fact: I'm still 15 y.o! Really.</p>
-      <p>
-        👦 Dev type : Solo dev. Better to working solo than working together.
-        But ask if you want to collaborate. It'll be my first collaboration.
-      </p>
+      <a href="#">
+        <img src="https://cardivo.vercel.app/api?name=Gifaldy%20Azka&description=Hello%F0%9F%91%8B!%20I%27m%20a%20Discord%20Bot%20Developer!%20Used%20Discord.js%20to%20interacting%20with%20Discord%20API!%20Nice%20to%20meet%20you!&image=https://avatars.githubusercontent.com/u/68645946?v=4&backgroundColor=%23ecf0f1&instagram=falcxxr&github=gifaldyazkaa&twitter=falcxxr&pattern=ticTacToe&colorPattern=%23eaeaea" alt="My Profile Card">
+      </a>
       <br />
+      <hr>
+      <div align="center">
+          <h2>Skills<h2>
+          <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+          <img src="https://img.shields.io/badge/discord.js%20-%23323330.svg?&style=for-the-badge&logo=discord">
+          <img src="https://img.shields.io/badge/React%20JS%20-%23323330.svg?&style=for-the-badge&logo=react">
+          <img src="https://img.shields.io/badge/Sass%20-%23323330.svg?&style=for-the-badge&logo=sass">
+      </div>
       <div align="center">
             <img src="https://komarev.com/ghpvc/?username=gifaldyazkaa&label=Profile+Views&style=flat" alt="Profile Views">
+      <hr>
       <p align="center">
         <samp>
           &#9993;
