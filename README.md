@@ -23,7 +23,6 @@
         <img src="https://cardivo.vercel.app/api?name=Gifaldy%20Azka&description=Hello%F0%9F%91%8B!%20I%27m%20a%20Discord%20Bot%20Developer!%20Used%20Discord.js%20to%20interacting%20with%20Discord%20API!%20Nice%20to%20meet%20you!&image=https://avatars.githubusercontent.com/u/68645946?v=4&backgroundColor=%23ecf0f1&instagram=falcxxr&github=gifaldyazkaa&twitter=falcxxr&pattern=ticTacToe&colorPattern=%23eaeaea" alt="My Profile Card">
       </a>
       <br />
-      <hr>
       <div align="center">
           <h2>Skills<h2>
           <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
