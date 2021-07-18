@@ -48,7 +48,7 @@
       <p align="center">
         <a href="https://discord.gg/j2MfuWySfD">
           <img
-          alt="Discord Profile"
+          alt="Discord Profile Card"
           src="https://lanyard-profile-readme.vercel.app/api/788260234409672754"
         />
         </a>
@@ -56,7 +56,7 @@
       <p align="center">
         <a href="#" target="_blank">
           <img
-            alt="Top Language"
+            alt="Top Used Language"
             src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=gifaldyazkaa&hide_border=true&title_color=373e4d&text_color=3b4252"
           />
           <img
